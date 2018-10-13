@@ -11,36 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>BMRA</title>
-      <link>https://stephenjarvis.github.io/project/bmra/</link>
+      <title>Balancing Mechanism Data Archive</title>
+      <link>https://stephenjarvis.github.io/project/bmradata/</link>
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/project/bmra/</guid>
-      <description>&lt;p&gt;The electricity market in Great Britain has a wealth of available information available from Elexon, the market operator. Prior to the creation of a new API system this data was challenging to access. I have been working to download and process the old files that have not been migrated to the new system. The full archive spans back to as early as 2002 and offers an invaluable dataset for researchers. The goal is to make this data available in a lightweight and easy-to-use format. This work is ongoing.&lt;/p&gt;
+      <guid>https://stephenjarvis.github.io/project/bmradata/</guid>
+      <description>&lt;p&gt;The electricity market in Great Britain has a wealth of available information available from Elexon, the market operator. Prior to the creation of a new API system in 2016 this data was challenging to access. I have been working to download and process the old files that have not been migrated to the new system. The full archive spans back to as early as 2002 and offers an invaluable dataset for researchers. The goal is to make this data available in a lightweight and easy-to-use format.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>GGE</title>
-      <link>https://stephenjarvis.github.io/project/gge/</link>
+      <title>Global Gridded Electricity dataset</title>
+      <link>https://stephenjarvis.github.io/project/ggedata/</link>
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/project/gge/</guid>
-      <description>&lt;p&gt;This is an ongoing project to develop a high spatial resolution global GIS dataset of electricity consumption. An alpha version of the dataset has been completed. Work to get a first publishable version is ongoing.&lt;/p&gt;
+      <guid>https://stephenjarvis.github.io/project/ggedata/</guid>
+      <description>&lt;p&gt;This is an ongoing project to develop a high spatial resolution global GIS dataset of electricity consumption. An alpha version of the dataset has been completed. Work to get a final publishable version is ongoing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>GGE</title>
-      <link>https://stephenjarvis.github.io/publication/ggec/</link>
-      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/ggec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PHASEOUT</title>
+      <title>Choosing between environmental ills: a study of the phase-out of nuclear power in Germany</title>
       <link>https://stephenjarvis.github.io/publication/phaseout/</link>
       <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
       
@@ -49,11 +40,29 @@
     </item>
     
     <item>
-      <title>RADE</title>
+      <title>Global Gridded Electricity: a high spatial resolution dataset of world electricity consumption</title>
+      <link>https://stephenjarvis.github.io/publication/gge/</link>
+      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/gge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource acquisition, distribution and end-use efficiencies and the growth of industrial society</title>
       <link>https://stephenjarvis.github.io/publication/rade/</link>
       <pubDate>Tue, 13 Oct 2015 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/rade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The economic history of the UK&#39;s innovative and regulatory response to acid rain from 1960 to 1990</title>
+      <link>https://stephenjarvis.github.io/publication/acidrain/</link>
+      <pubDate>Wed, 13 Jun 2012 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/acidrain/</guid>
       <description></description>
     </item>
     
