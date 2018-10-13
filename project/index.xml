@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://stephenjarvis.github.io/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 13 Oct 2018 02:24:42 -0700</lastBuildDate>
+    
+	<atom:link href="https://stephenjarvis.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BMRA</title>
+      <link>https://stephenjarvis.github.io/project/bmra/</link>
+      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/bmra/</guid>
+      <description>The electricity market in Great Britain has a wealth of available information available from Elexon, the market operator. Prior to the creation of a new API system this data was challenging to access. I have been working to download and process the old files that have not been migrated to the new system. The full archive spans back to as early as 2002 and offers an invaluable dataset for researchers. The goal is to make this data available in a lightweight and easy-to-use format.</description>
+    </item>
+    
+    <item>
+      <title>GGE</title>
+      <link>https://stephenjarvis.github.io/project/gge/</link>
+      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gge/</guid>
+      <description>This is an ongoing project to develop a high spatial resolution global GIS dataset of electricity consumption. An alpha version of the dataset has been completed. Work to get a first publishable version is ongoing.</description>
+    </item>
+    
+  </channel>
+</rss>

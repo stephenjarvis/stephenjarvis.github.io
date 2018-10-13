@@ -27,16 +27,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/home/about/</guid>
-      <description>Biography I am a PhD student at UC Berkeley&amp;rsquo;s Energy &amp;amp; Resources Group and a Researcher at the Energy Institute at Haas. My research interests are centered on energy and environmental economics, with a particular focus on electricity markets. I am also exploring novel applications of econometric and machine learning methods in this space, including how these can be blended with more traditional optimization model approaches.</description>
-    </item>
-    
-    <item>
-      <title>Experience</title>
-      <link>https://stephenjarvis.github.io/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/home/experience/</guid>
-      <description></description>
+      <description>Biography I am a PhD student at UC Berkeley&amp;rsquo;s Energy &amp;amp; Resources Group and a Researcher at the Energy Institute at Haas. My research interests are centered on energy and environmental economics, with a particular focus on electricity markets. I am also exploring applying machine learning methods to power system modeling.</description>
     </item>
     
     <item>
@@ -67,6 +58,15 @@
     </item>
     
     <item>
+      <title>Projects</title>
+      <link>https://stephenjarvis.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://stephenjarvis.github.io/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
@@ -85,11 +85,11 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://stephenjarvis.github.io/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      <title>Experience</title>
+      <link>https://stephenjarvis.github.io/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stephenjarvis.github.io/home/projects/</guid>
+      <guid>https://stephenjarvis.github.io/home/experience/</guid>
       <description></description>
     </item>
     
