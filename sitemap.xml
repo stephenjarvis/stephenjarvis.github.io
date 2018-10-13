@@ -4,7 +4,23 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://stephenjarvis.github.io/publication/ggec/</loc>
+      <lastmod>2018-10-13T01:26:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephenjarvis.github.io/publication/phaseout/</loc>
+      <lastmod>2018-10-13T01:26:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephenjarvis.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -12,7 +28,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://stephenjarvis.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -20,7 +36,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://stephenjarvis.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
@@ -28,7 +44,15 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://stephenjarvis.github.io/publication/rade/</loc>
+      <lastmod>2015-10-13T01:26:16-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephenjarvis.github.io/</loc>
       <lastmod>2017-10-15T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
@@ -37,7 +61,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://stephenjarvis.github.io/publication_types/2/</loc>
+      <lastmod>2015-10-13T01:26:16-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -45,7 +70,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://stephenjarvis.github.io/publication_types/3/</loc>
+      <lastmod>2018-10-13T01:26:16-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -53,7 +79,24 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://stephenjarvis.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephenjarvis.github.io/publication_types/</loc>
+      <lastmod>2015-10-13T01:26:16-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://stephenjarvis.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     

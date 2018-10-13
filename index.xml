@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
-    <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <title></title>
+    <link>https://stephenjarvis.github.io/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>GGE</title>
+      <link>https://stephenjarvis.github.io/publication/ggec/</link>
+      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/ggec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PHASEOUT</title>
+      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
+      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RADE</title>
+      <link>https://stephenjarvis.github.io/publication/rade/</link>
+      <pubDate>Tue, 13 Oct 2015 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rade/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
