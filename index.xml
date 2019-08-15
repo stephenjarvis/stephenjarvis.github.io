@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Tackling the social costs of NIMBYism: the case of renewable energy project development in the United Kingdom</title>
+      <link>https://stephenjarvis.github.io/publication/nimby/</link>
+      <pubDate>Thu, 15 Aug 2019 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choosing between environmental ills: a study of the phase-out of nuclear power in Germany</title>
+      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
+      <pubDate>Wed, 14 Aug 2019 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Should I Stay or Should I Go? The importance of electricity rate design for household defection from the power grid</title>
+      <link>https://stephenjarvis.github.io/publication/defection/</link>
+      <pubDate>Mon, 15 Jul 2019 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/defection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Balancing Mechanism Data Archive</title>
       <link>https://stephenjarvis.github.io/project/bmradata/</link>
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
@@ -28,15 +55,6 @@
       <guid>https://stephenjarvis.github.io/project/ggedata/</guid>
       <description>&lt;p&gt;This is an ongoing project to develop a high spatial resolution global GIS dataset of electricity consumption. An alpha version of the dataset has been completed. Work to get a final publishable version is ongoing.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Choosing between environmental ills: a study of the phase-out of nuclear power in Germany</title>
-      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
-      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
-      <description></description>
     </item>
     
     <item>
