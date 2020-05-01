@@ -21,14 +21,5 @@
       <description>The electricity market in Great Britain has a wealth of available information available from Elexon, the market operator. Prior to the creation of a new API system in 2016 this data was challenging to access. I have been working to download and process the old files that have not been migrated to the new system. The full archive spans back to as early as 2002 and offers an invaluable dataset for researchers.</description>
     </item>
     
-    <item>
-      <title>Global Gridded Electricity dataset</title>
-      <link>https://stephenjarvis.github.io/project/ggedata/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/project/ggedata/</guid>
-      <description>This is an ongoing project to develop a high spatial resolution global GIS dataset of electricity consumption. An alpha version of the dataset has been completed. Work to get a final publishable version is ongoing.</description>
-    </item>
-    
   </channel>
 </rss>
