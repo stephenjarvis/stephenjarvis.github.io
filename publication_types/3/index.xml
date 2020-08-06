@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 30 Apr 2020 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2020 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>The social costs of NIMBYism: evidence from renewable energy projects in the United Kingdom</title>
       <link>https://stephenjarvis.github.io/publication/nimby/</link>
-      <pubDate>Thu, 30 Apr 2020 01:26:16 -0700</pubDate>
+      <pubDate>Sat, 01 Aug 2020 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Private and External Costs of Germany&#39;s Nuclear Phase-out</title>
+      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
+      <pubDate>Sat, 30 May 2020 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
       <description></description>
     </item>
     
@@ -31,38 +40,20 @@
     </item>
     
     <item>
-      <title>The Private and External Costs of Germany&#39;s Nuclear Phase-out</title>
-      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
-      <pubDate>Mon, 30 Dec 2019 01:26:16 -0700</pubDate>
+      <title>Human and physical capital inertia in a rapid energy transition</title>
+      <link>https://stephenjarvis.github.io/publication/inertia/</link>
+      <pubDate>Mon, 13 Jan 2020 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
+      <guid>https://stephenjarvis.github.io/publication/inertia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Should I Stay or Should I Go? The importance of electricity rate design for household defection from the power grid</title>
-      <link>https://stephenjarvis.github.io/publication/defection/</link>
-      <pubDate>Mon, 15 Jul 2019 01:26:16 -0700</pubDate>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Mon, 13 Jan 2020 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/defection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global Gridded Electricity: a high spatial resolution dataset of world electricity consumption</title>
-      <link>https://stephenjarvis.github.io/publication/gge/</link>
-      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/gge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Does environmental regulation spur innovation? A study of acid rain regulation and the power sector in the UK, 1960-1990</title>
-      <link>https://stephenjarvis.github.io/publication/acidrain/</link>
-      <pubDate>Wed, 13 Jun 2012 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/acidrain/</guid>
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
       <description></description>
     </item>
     

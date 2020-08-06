@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 13 Oct 2015 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Should I Stay or Should I Go? The importance of electricity rate design for household defection from the power grid</title>
+      <link>https://stephenjarvis.github.io/publication/defection/</link>
+      <pubDate>Mon, 15 Jul 2019 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/defection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Gridded Electricity: a high spatial resolution dataset of world electricity consumption</title>
+      <link>https://stephenjarvis.github.io/publication/gge/</link>
+      <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/gge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resource acquisition, distribution and end-use efficiencies and the growth of industrial society</title>
