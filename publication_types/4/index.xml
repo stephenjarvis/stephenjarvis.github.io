@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on </title>
+    <link>https://stephenjarvis.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Aug 2020 01:26:16 -0700</lastBuildDate>
+    
+	<atom:link href="https://stephenjarvis.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The social costs of NIMBYism: evidence from renewable energy projects in the United Kingdom</title>
+      <link>https://stephenjarvis.github.io/publication/nimby/</link>
+      <pubDate>Sat, 01 Aug 2020 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Private and External Costs of Germany&#39;s Nuclear Phase-out</title>
+      <link>https://stephenjarvis.github.io/publication/phaseout/</link>
+      <pubDate>Sat, 30 May 2020 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/phaseout/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Conditioning and Inequality</title>
+      <link>https://stephenjarvis.github.io/publication/aircon/</link>
+      <pubDate>Sat, 14 Mar 2020 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/aircon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
