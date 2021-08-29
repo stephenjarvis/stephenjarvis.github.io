@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>The Impacts of Renewable Energy Projects on Local Industries and Employment</title>
+      <link>https://stephenjarvis.github.io/publication/renewablelocalfirms/</link>
+      <pubDate>Tue, 01 Jun 2021 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/renewablelocalfirms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Air Conditioning and Global Inequality</title>
       <link>https://stephenjarvis.github.io/publication/aircon/</link>
       <pubDate>Mon, 31 May 2021 01:26:16 -0700</pubDate>
@@ -31,7 +40,7 @@
     </item>
     
     <item>
-      <title>The Impact of Climate Policy on Employment and Entry/Exit: Firm-Level Evidence from Germany</title>
+      <title>The Impact of Climate Policy on Manufacturing Employment: Firm-Level Evidence from Germany</title>
       <link>https://stephenjarvis.github.io/publication/trace/</link>
       <pubDate>Mon, 31 May 2021 01:26:16 -0700</pubDate>
       
@@ -63,15 +72,6 @@
       <pubDate>Sun, 31 Jan 2021 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/climateoutages/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Renewable Energy Community Payments Work?</title>
-      <link>https://stephenjarvis.github.io/publication/communitybenefits/</link>
-      <pubDate>Wed, 20 Jan 2021 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/communitybenefits/</guid>
       <description></description>
     </item>
     
