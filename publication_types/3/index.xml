@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Impacts of Renewable Energy Projects on Local Industries and Employment</title>
+      <title>Renewable Energy Leasing on Public Lands</title>
+      <link>https://stephenjarvis.github.io/publication/renewablepubliclands/</link>
+      <pubDate>Tue, 01 Feb 2022 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/renewablepubliclands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional economic development and local support for renewable energy</title>
       <link>https://stephenjarvis.github.io/publication/renewablelocalfirms/</link>
-      <pubDate>Tue, 01 Jun 2021 01:26:16 -0700</pubDate>
+      <pubDate>Thu, 20 Jan 2022 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/renewablelocalfirms/</guid>
       <description></description>
@@ -27,33 +36,6 @@
       <pubDate>Mon, 31 May 2021 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/trace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Sat, 20 Mar 2021 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generational Trends in Vehicle Ownership and Use: Are Millenials Different After All?</title>
-      <link>https://stephenjarvis.github.io/publication/drivingmillenials/</link>
-      <pubDate>Fri, 19 Mar 2021 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/drivingmillenials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extreme Weather and Infrastructure Outages under Climate Change</title>
-      <link>https://stephenjarvis.github.io/publication/climateoutages/</link>
-      <pubDate>Sun, 31 Jan 2021 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/climateoutages/</guid>
       <description></description>
     </item>
     
