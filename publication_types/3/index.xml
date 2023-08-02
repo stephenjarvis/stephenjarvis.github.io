@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 31 Mar 2023 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Unintended Consequences of Vertical Dis-Integration in Electricity Markets</title>
+      <link>https://stephenjarvis.github.io/publication/verticalintegration/</link>
+      <pubDate>Tue, 20 Jun 2023 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/verticalintegration/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Impact of Climate Policy on Manufacturing Employment: Firm-Level Evidence from Germany</title>
