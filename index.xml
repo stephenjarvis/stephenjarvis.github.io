@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Getting Energy Prices Right in Times of Crisis and Transition</title>
+      <link>https://stephenjarvis.github.io/publication/pvssmc/</link>
+      <pubDate>Thu, 01 Jun 2023 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/pvssmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects</title>
       <link>https://stephenjarvis.github.io/publication/nimby/</link>
       <pubDate>Wed, 03 May 2023 01:26:16 -0700</pubDate>
@@ -101,13 +110,30 @@
     </item>
     
     <item>
-      <title>Balancing Mechanism Data Archive</title>
-      <link>https://stephenjarvis.github.io/project/bmradata/</link>
+      <title>GY222: Applied Environmental Economics</title>
+      <link>https://stephenjarvis.github.io/project/gy222/</link>
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/project/bmradata/</guid>
-      <description>&lt;p&gt;The electricity market in Great Britain has a wealth of available information available from Elexon, the market operator. Prior to the creation of a new API system in 2016 this data was challenging to access. I have been working to download and process the old files that have not been migrated to the new system. The full archive spans back to as early as 2002 and offers an invaluable dataset for researchers. The goal is to make this data available in a lightweight and easy-to-use format.&lt;/p&gt;
-</description>
+      <guid>https://stephenjarvis.github.io/project/gy222/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GY428: Applied Quantitative Methods</title>
+      <link>https://stephenjarvis.github.io/project/gy428/</link>
+      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gy428/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GY455: Economic Appraisal and Valuation</title>
+      <link>https://stephenjarvis.github.io/project/gy455/</link>
+      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gy455/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -116,15 +142,6 @@
       <pubDate>Sat, 13 Oct 2018 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/gge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resource acquisition, distribution and end-use efficiencies and the growth of industrial society</title>
-      <link>https://stephenjarvis.github.io/publication/rade/</link>
-      <pubDate>Tue, 13 Oct 2015 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rade/</guid>
       <description></description>
     </item>
     
