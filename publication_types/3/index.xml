@@ -7,26 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 03 Jun 2024 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>The Impacts of Air Pollution on Petcare Utilization and Spending</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Mon, 16 Sep 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Impact of Climate Policy on Manufacturing Employment: Firm-Level Evidence from Germany</title>
       <link>https://stephenjarvis.github.io/publication/trace/</link>
-      <pubDate>Mon, 03 Jun 2024 01:26:16 -0700</pubDate>
+      <pubDate>Sun, 15 Sep 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/trace/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Impacts of Air Pollution on Petcare Utilization and Spending</title>
-      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Sat, 01 Jun 2024 01:26:16 -0700</pubDate>
+      <title>Landowner Windfalls</title>
+      <link>https://stephenjarvis.github.io/publication/landownerwindfalls/</link>
+      <pubDate>Sat, 14 Sep 2024 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <guid>https://stephenjarvis.github.io/publication/landownerwindfalls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
+      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
+      <pubDate>Sun, 01 Sep 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
       <description></description>
     </item>
     
@@ -45,15 +63,6 @@
       <pubDate>Thu, 02 May 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/cleanairzonesuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
-      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
-      <pubDate>Wed, 01 May 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
       <description></description>
     </item>
     

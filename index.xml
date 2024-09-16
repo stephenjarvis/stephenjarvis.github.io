@@ -11,29 +11,47 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Wed, 03 Jul 2024 01:26:16 -0700</pubDate>
+      <title>The Impacts of Air Pollution on Petcare Utilization and Spending</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Mon, 16 Sep 2024 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Impact of Climate Policy on Manufacturing Employment: Firm-Level Evidence from Germany</title>
       <link>https://stephenjarvis.github.io/publication/trace/</link>
-      <pubDate>Mon, 03 Jun 2024 01:26:16 -0700</pubDate>
+      <pubDate>Sun, 15 Sep 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/trace/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Impacts of Air Pollution on Petcare Utilization and Spending</title>
-      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Sat, 01 Jun 2024 01:26:16 -0700</pubDate>
+      <title>Landowner Windfalls</title>
+      <link>https://stephenjarvis.github.io/publication/landownerwindfalls/</link>
+      <pubDate>Sat, 14 Sep 2024 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <guid>https://stephenjarvis.github.io/publication/landownerwindfalls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
+      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
+      <pubDate>Sun, 01 Sep 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Wed, 03 Jul 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
       <description></description>
     </item>
     
@@ -61,15 +79,6 @@
       <pubDate>Thu, 02 May 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/cleanairzonesuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
-      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
-      <pubDate>Wed, 01 May 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
       <description></description>
     </item>
     
@@ -133,15 +142,6 @@
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy455/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resource acquisition, distribution and end-use efficiencies and the growth of industrial society</title>
-      <link>https://stephenjarvis.github.io/publication/rade/</link>
-      <pubDate>Tue, 13 Oct 2015 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rade/</guid>
       <description></description>
     </item>
     
