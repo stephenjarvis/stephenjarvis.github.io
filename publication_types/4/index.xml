@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 03 Jul 2024 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,27 @@
     <item>
       <title>Rate of Return Regulation Revisited</title>
       <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Wed, 03 Jul 2024 01:26:16 -0700</pubDate>
+      <pubDate>Tue, 03 Dec 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects</title>
-      <link>https://stephenjarvis.github.io/publication/nimby/</link>
-      <pubDate>Fri, 03 May 2024 01:26:16 -0700</pubDate>
+      <title>The Impact of Air Pollution on Petcare Utilization</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Sun, 03 Nov 2024 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Do Younger Generations Drive Less?</title>
-      <link>https://stephenjarvis.github.io/publication/drivingmillenials/</link>
-      <pubDate>Sun, 01 Jan 2023 01:26:16 -0700</pubDate>
+      <title>The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects</title>
+      <link>https://stephenjarvis.github.io/publication/nimby/</link>
+      <pubDate>Thu, 03 Oct 2024 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/drivingmillenials/</guid>
+      <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
       <description></description>
     </item>
     
@@ -45,6 +45,15 @@
       <pubDate>Mon, 31 May 2021 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/aircon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Younger Generations Drive Less?</title>
+      <link>https://stephenjarvis.github.io/publication/drivingmillenials/</link>
+      <pubDate>Fri, 19 Mar 2021 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/drivingmillenials/</guid>
       <description></description>
     </item>
     

@@ -11,18 +11,27 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Impacts of Air Pollution on Petcare Utilization and Spending</title>
-      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Mon, 16 Sep 2024 01:26:16 -0700</pubDate>
+      <title>Road Pricing, Congestion and Low Emissions Zones in a Net Zero World</title>
+      <link>https://stephenjarvis.github.io/publication/cleanairzones/</link>
+      <pubDate>Fri, 03 Jan 2025 01:26:16 -0700</pubDate>
       
-      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <guid>https://stephenjarvis.github.io/publication/cleanairzones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
+      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
+      <pubDate>Thu, 02 Jan 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Climate Policy, Manufacturing Competitiveness and the Decision to Exit: Evidence from Germany</title>
       <link>https://stephenjarvis.github.io/publication/trace/</link>
-      <pubDate>Sun, 15 Sep 2024 01:26:16 -0700</pubDate>
+      <pubDate>Wed, 01 Jan 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/trace/</guid>
       <description></description>
@@ -31,63 +40,45 @@
     <item>
       <title>Landowner Windfalls</title>
       <link>https://stephenjarvis.github.io/publication/landownerwindfalls/</link>
-      <pubDate>Sat, 14 Sep 2024 01:26:16 -0700</pubDate>
+      <pubDate>Wed, 01 Jan 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/landownerwindfalls/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
-      <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
-      <pubDate>Sun, 01 Sep 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Wed, 03 Jul 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Unintended Consequences of Vertical Dis-Integration in Electricity Markets</title>
       <link>https://stephenjarvis.github.io/publication/verticalintegration/</link>
-      <pubDate>Mon, 20 May 2024 01:26:16 -0700</pubDate>
+      <pubDate>Wed, 01 Jan 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/verticalintegration/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Tue, 03 Dec 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Air Pollution on Petcare Utilization</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Sun, 03 Nov 2024 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Economic Costs of NIMBYism: Evidence from Renewable Energy Projects</title>
       <link>https://stephenjarvis.github.io/publication/nimby/</link>
-      <pubDate>Fri, 03 May 2024 01:26:16 -0700</pubDate>
+      <pubDate>Thu, 03 Oct 2024 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/nimby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Road Pricing, Congestion and Low Emissions Zones in a Net Zero World</title>
-      <link>https://stephenjarvis.github.io/publication/cleanairzonesuk/</link>
-      <pubDate>Thu, 02 May 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/cleanairzonesuk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Younger Generations Drive Less?</title>
-      <link>https://stephenjarvis.github.io/publication/drivingmillenials/</link>
-      <pubDate>Sun, 01 Jan 2023 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/drivingmillenials/</guid>
       <description></description>
     </item>
     
@@ -110,6 +101,15 @@
     </item>
     
     <item>
+      <title>Do Younger Generations Drive Less?</title>
+      <link>https://stephenjarvis.github.io/publication/drivingmillenials/</link>
+      <pubDate>Fri, 19 Mar 2021 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/drivingmillenials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Should I Stay or Should I Go? The importance of electricity rate design for household defection from the power grid</title>
       <link>https://stephenjarvis.github.io/publication/defection/</link>
       <pubDate>Mon, 15 Jul 2019 01:26:16 -0700</pubDate>
@@ -124,7 +124,8 @@
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy222/</guid>
-      <description></description>
+      <description>&lt;p&gt;This course is an undergraduate level introduction to economic principles in the analysis of environmental change and natural resource use. My teaching on this course focuses on topics related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; sustainable development; biodiversity; and energy markets.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -133,7 +134,8 @@
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy428/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a postgraduate course that provides an introduction to quantitative methods in use in modern environmental and resource economics. Emphasis is on causal inference and regression-based methods, including key empirical designs (e.g. fixed effects, instrumental variables, regression discontinuity, difference-in-differences etc.). We also cover additional topics of interest, such as machine learning. Students learn how to apply these methods in R.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -142,7 +144,8 @@
       <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy455/</guid>
-      <description></description>
+      <description>&lt;p&gt;This is a postgraduate course that covers the use of applied economics in the context of project appraisal and policy evaluation. My teaching on this course focuses on topics related to related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; and the use of program evaluation in policymaking. I also host a panel discussion with experts from industry, consulting and government.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
