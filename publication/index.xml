@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Impact of Air Pollution on Petcare Utilization</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Thu, 03 Apr 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Mon, 03 Mar 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Road Pricing, Congestion and Low Emissions Zones in a Net Zero World</title>
@@ -54,24 +72,6 @@
       <pubDate>Wed, 01 Jan 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/verticalintegration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Tue, 03 Dec 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Air Pollution on Petcare Utilization</title>
-      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Sun, 03 Nov 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
       <description></description>
     </item>
     

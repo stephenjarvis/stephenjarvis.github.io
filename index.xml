@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Impact of Air Pollution on Petcare Utilization</title>
+      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
+      <pubDate>Thu, 03 Apr 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Mon, 03 Mar 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Road Pricing, Congestion and Low Emissions Zones in a Net Zero World</title>
@@ -52,24 +70,6 @@
       <pubDate>Wed, 01 Jan 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/verticalintegration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Tue, 03 Dec 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Air Pollution on Petcare Utilization</title>
-      <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Sun, 03 Nov 2024 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
       <description></description>
     </item>
     
@@ -119,19 +119,9 @@
     </item>
     
     <item>
-      <title>GY222: Applied Environmental Economics</title>
-      <link>https://stephenjarvis.github.io/project/gy222/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/project/gy222/</guid>
-      <description>&lt;p&gt;This course is an undergraduate level introduction to economic principles in the analysis of environmental change and natural resource use. My teaching on this course focuses on topics related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; sustainable development; biodiversity; and energy markets.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>GY428: Applied Quantitative Methods</title>
       <link>https://stephenjarvis.github.io/project/gy428/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      <pubDate>Thu, 04 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy428/</guid>
       <description>&lt;p&gt;This is a postgraduate course that provides an introduction to quantitative methods in use in modern environmental and resource economics. Emphasis is on causal inference and regression-based methods, including key empirical designs (e.g. fixed effects, instrumental variables, regression discontinuity, difference-in-differences etc.). We also cover additional topics of interest, such as machine learning. Students learn how to apply these methods in R.&lt;/p&gt;
@@ -139,9 +129,19 @@
     </item>
     
     <item>
+      <title>GY478: Energy Markets and the Clean Energy Transition</title>
+      <link>https://stephenjarvis.github.io/project/gy478/</link>
+      <pubDate>Wed, 03 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gy478/</guid>
+      <description>&lt;p&gt;TBD.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GY455: Economic Appraisal and Valuation</title>
       <link>https://stephenjarvis.github.io/project/gy455/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      <pubDate>Tue, 02 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy455/</guid>
       <description>&lt;p&gt;This is a postgraduate course that covers the use of applied economics in the context of project appraisal and policy evaluation. My teaching on this course focuses on topics related to related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; and the use of program evaluation in policymaking. I also host a panel discussion with experts from industry, consulting and government.&lt;/p&gt;

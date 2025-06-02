@@ -7,36 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 13 Oct 2018 02:24:42 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 02:24:42 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>GY222: Applied Environmental Economics</title>
-      <link>https://stephenjarvis.github.io/project/gy222/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/project/gy222/</guid>
-      <description>This course is an undergraduate level introduction to economic principles in the analysis of environmental change and natural resource use. My teaching on this course focuses on topics related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; sustainable development; biodiversity; and energy markets.</description>
-    </item>
-    
-    <item>
       <title>GY428: Applied Quantitative Methods</title>
       <link>https://stephenjarvis.github.io/project/gy428/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      <pubDate>Thu, 04 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy428/</guid>
       <description>This is a postgraduate course that provides an introduction to quantitative methods in use in modern environmental and resource economics. Emphasis is on causal inference and regression-based methods, including key empirical designs (e.g. fixed effects, instrumental variables, regression discontinuity, difference-in-differences etc.). We also cover additional topics of interest, such as machine learning. Students learn how to apply these methods in R.</description>
     </item>
     
     <item>
+      <title>GY478: Energy Markets and the Clean Energy Transition</title>
+      <link>https://stephenjarvis.github.io/project/gy478/</link>
+      <pubDate>Wed, 03 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gy478/</guid>
+      <description>TBD.</description>
+    </item>
+    
+    <item>
       <title>GY455: Economic Appraisal and Valuation</title>
       <link>https://stephenjarvis.github.io/project/gy455/</link>
-      <pubDate>Sat, 13 Oct 2018 02:24:42 -0700</pubDate>
+      <pubDate>Tue, 02 Oct 2018 02:24:42 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/project/gy455/</guid>
       <description>This is a postgraduate course that covers the use of applied economics in the context of project appraisal and policy evaluation. My teaching on this course focuses on topics related to related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; and the use of program evaluation in policymaking. I also host a panel discussion with experts from industry, consulting and government.</description>
+    </item>
+    
+    <item>
+      <title>GY222: Applied Environmental Economics</title>
+      <link>https://stephenjarvis.github.io/project/gy222/</link>
+      <pubDate>Mon, 01 Oct 2018 02:24:42 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/project/gy222/</guid>
+      <description>This course is an undergraduate level introduction to economic principles in the analysis of environmental change and natural resource use. My teaching on this course focuses on topics related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; sustainable development; biodiversity; and energy markets.</description>
     </item>
     
   </channel>
