@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 03 Jan 2025 01:26:16 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:26:16 -0700</lastBuildDate>
     
 	<atom:link href="https://stephenjarvis.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Impact of Electricity Prices on Low Carbon Technology Adoption</title>
+      <link>https://stephenjarvis.github.io/publication/lowcarbonadoption/</link>
+      <pubDate>Wed, 01 Oct 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/lowcarbonadoption/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Road Pricing, Congestion and Low Emissions Zones in a Net Zero World</title>

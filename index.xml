@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Impact of Air Pollution on Petcare Utilization</title>
       <link>https://stephenjarvis.github.io/publication/petsandpollution/</link>
-      <pubDate>Thu, 03 Apr 2025 01:26:16 -0700</pubDate>
+      <pubDate>Mon, 06 Oct 2025 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/petsandpollution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Electricity Prices on Low Carbon Technology Adoption</title>
+      <link>https://stephenjarvis.github.io/publication/lowcarbonadoption/</link>
+      <pubDate>Wed, 01 Oct 2025 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/lowcarbonadoption/</guid>
       <description></description>
     </item>
     
@@ -135,16 +144,6 @@
       
       <guid>https://stephenjarvis.github.io/project/gy478/</guid>
       <description>&lt;p&gt;TBD.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>GY455: Economic Appraisal and Valuation</title>
-      <link>https://stephenjarvis.github.io/project/gy455/</link>
-      <pubDate>Tue, 02 Oct 2018 02:24:42 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/project/gy455/</guid>
-      <description>&lt;p&gt;This is a postgraduate course that covers the use of applied economics in the context of project appraisal and policy evaluation. My teaching on this course focuses on topics related to related to cost-benefit analysis and environmental valuation; stated and revealed preferences methods; and the use of program evaluation in policymaking. I also host a panel discussion with experts from industry, consulting and government.&lt;/p&gt;
 </description>
     </item>
     
