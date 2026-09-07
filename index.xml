@@ -7,22 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Rate of Return Regulation Revisited</title>
-      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
-      <pubDate>Tue, 03 Mar 2026 01:26:16 -0700</pubDate>
-      
-      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Global Consequences of Climate Change for Peak Electricity Demand</title>
+      <title> The Global Consequences of Climate Change and Appliance Adoption for Peak Electricity Demand</title>
       <link>https://stephenjarvis.github.io/publication/electricityclimate/</link>
-      <pubDate>Mon, 02 Feb 2026 01:26:16 -0700</pubDate>
+      <pubDate>Sun, 02 Aug 2026 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/electricityclimate/</guid>
       <description></description>
@@ -31,9 +22,18 @@
     <item>
       <title>Climate Policy, Manufacturing Competitiveness and the Decision to Exit: Evidence from Germany</title>
       <link>https://stephenjarvis.github.io/publication/trace/</link>
-      <pubDate>Sun, 01 Feb 2026 01:26:16 -0700</pubDate>
+      <pubDate>Sat, 01 Aug 2026 01:26:16 -0700</pubDate>
       
       <guid>https://stephenjarvis.github.io/publication/trace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate of Return Regulation Revisited</title>
+      <link>https://stephenjarvis.github.io/publication/rateofreturn/</link>
+      <pubDate>Tue, 03 Mar 2026 01:26:16 -0700</pubDate>
+      
+      <guid>https://stephenjarvis.github.io/publication/rateofreturn/</guid>
       <description></description>
     </item>
     
